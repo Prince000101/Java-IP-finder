@@ -33,7 +33,7 @@
 
 ### Inside the App:
 
-* Type a website address in the input field (e.g., `example.com`)
+* Type a website address in the input field (e.g., `youtube.com`)
 * Click the **Find IP** button
 * The corresponding IP address will appear below
 
